@@ -15,3 +15,11 @@
     margin: 0 auto;
 }
 /*common*/
+
+header{
+    background-color: violet;
+    height: 100px;
+    margin: 10px;
+}
+
+
