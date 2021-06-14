@@ -14,7 +14,7 @@
     width: 80%;
     margin: 0 auto;
 }
-/*common*/
+/*fine common*/
 
 header{
     background-color: violet;
@@ -31,6 +31,7 @@ header{
 /*parte esercizio con float*/
 .main{
     background-color: blue;
+    margin: 10px;
 }
 
 .title{
@@ -53,4 +54,11 @@ header{
     float: left;
     margin: 10px;
     width: calc((100% / 5)*3 - 20px);
+}
+/*fine float*/
+
+footer{
+    background-color: darkmagenta;
+    height: 50px;
+    margin: 10px;
 }
